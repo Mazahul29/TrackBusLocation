@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#be6a25</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bac">#532E52</color>
+
+
+    <color name="pressColor">#FF332820</color>
+    <color name="relesColor">#FFD28F5F</color>
+
+</resources>
